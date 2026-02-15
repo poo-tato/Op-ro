@@ -1,51 +1,49 @@
-<h1 align="center">👋 Hi, I'm Opro</h1>
+<h1 align="center">👋 Hi, I'm Potato (poo-tato)</h1>
 <p align="center">
-  💻 Full-Stack Developer | 🤖 Automation Specialist | 🎨 Pixel Art Enthusiast  
+  🍎 Swift Beginner | 📚 Learning iOS Development | 🥔 Potato-Minded Creator
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔹 Discord 봇, 웹서비스, API 통합 등 **자동화 솔루션** 제작  
-- 🔹 프론트엔드부터 백엔드, 데이터베이스까지 **풀스택 개발** 가능  
-- 🔹 사이버펑크 & 픽셀아트 감성 프로젝트 즐겨 제작  
-- 🔹 목표: 커뮤니티와 비즈니스를 더 편리하게 만드는 서비스 제공  
+- 🔹 현재 **Swift**와 **iOS 개발**의 매력에 빠져있는 초보 개발자입니다.
+- 🔹 첫 프로젝트로 800줄의 정성이 담긴 **'Today 장부 앱'**을 제작 중입니다.
+- 🔹 코드는 조금 꼬여있을지 몰라도(스파게티 🍝), 기능만큼은 확실하게 구현하려 노력합니다.
+- 🔹 목표: 내가 매일 쓰고 싶은 실용적인 앱을 직접 만드는 것!
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack (Learning & Using)
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Language & Tool** ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Version Control** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
-| 프로젝트 | 설명 | 링크 |
+| 프로젝트 | 설명 | 상태 |
 |----------|------|------|
-| 🎫 **Thread Ticket Bot** | 스레드 기반 티켓 시스템, 버튼 UI 제공 | [바로가기](https://github.com/사용자명/Thread-Ticket-Bot) |
-| 🤖 **AI Discord Bot** | ChatGPT API 기반 대화형 봇 | [바로가기](https://github.com/사용자명/AI-Discord-Bot) |
-| 🔄 **Community Automation** | 공지 예약, 자동 번역, 역할 부여 | [바로가기](https://github.com/사용자명/Community-Automation) |
+| 🍎 **Today** | Swift로 만든 첫 지출 기록 장부 앱 | **800줄 돌파 (진행중)** |
+| 🥔 **Future Project** | 다음엔 어떤 멋진 걸 만들어볼까요? | Planning |
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 My Growth Diary
 
 <p align="center">
-  ✨ 하루하루 더 나은 개발자로 성장 중
+  ✨ "오늘의 스파게티 코드가 내일의 깔끔한 아키텍처가 된다."
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poo-tato&show_icons=true&theme=radical" alt="Potato's GitHub Stats" />
+</p>
+
+---
+
+## 📫 Contact Me
+- **GitHub**: [poo-tato](https://github.com/poo-tato)
+- **Status**: 첫 커밋의 설렘을 잊지 않으려 노력 중!
